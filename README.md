@@ -21,7 +21,7 @@ Console-based ticket booking system developed as part of the HyperSkill Java Dev
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/StanIvanov90/HyperSkill-Cinema-Room-Manager.git](https://github.com/StanIvanov90/HyperSkill-Cinema-Room-Manager.git)
+   git clone https://github.com/StanIvanov90/HyperSkill-Cinema-Room-Manager.git
 
 
 ## Example Usage
